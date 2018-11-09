@@ -1,0 +1,7 @@
+{
+	"emname": "messaging-products",
+	"options": {
+		"management": true,
+		"messagingrest": true
+	}
+}

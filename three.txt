@@ -1,0 +1,8 @@
+{
+"oa2": {
+	"client": "<clientid>",
+	"secret": "<clientsecret>",
+	"endpoint": "<tokenendpoint>"
+	},
+	"uri": "wss://enterprise-messaging-messaging-gateway.cfapps.eu10.hana.ondemand.com:443/protocols/amqp10ws"
+}

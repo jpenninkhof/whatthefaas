@@ -1,0 +1,8 @@
+const util = require('util');
+
+module.exports = {
+	handler: function( event, context ) {
+// 		return util.inspect(process);
+// 		return process.uptime();
+	}
+};
